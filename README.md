@@ -27,15 +27,6 @@ UDP packets are expected to be sent from a remote sensor in JSON, for example:
 
 This is a custom structure, but is simple enough to send from cheap Wi-Fi enabled microcontrollers such as the ESP8266.
 
-## See also
-
-* [homebridge-bme280](https://www.npmjs.com/package/homebridge-bme280)
-* [homebridge-udp-lightsensor](https://www.npmjs.com/package/homebridge-udp-lightsensor)
-* [homebridge-udp-contactsensor](https://www.npmjs.com/package/homebridge-udp-contactsensor)
-* [homebridge-udp-lock](https://www.npmjs.com/package/homebridge-udp-lock)
-* [homebridge-blinds-udp](https://www.npmjs.com/package/homebridge-blinds-udp)
-* [homebridge-udp-multiswitch](https://www.npmjs.com/package/homebridge-udp-multiswitch)
-
 ## License
 
 MIT
